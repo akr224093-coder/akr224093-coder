@@ -1,7 +1,11 @@
-## Hi there 👋
+### Hi, I'm ABHISHEK KR 👋
 
-<!--
-**akr224093-coder/akr224093-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+COMPUTER SCIENCE STUDENT
+</h3>
+
+
+<img align="right" width="200" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
 
 Here are some ideas to get you started:
 
