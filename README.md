@@ -5,8 +5,13 @@ COMPUTER SCIENCE STUDENT
 </h3>
 
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/yourusername/repository/main/logo.png">
+<img align="right" width="200" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png">
 
+# Hi, I'm Abhishek 👋
+
+<h3 align="center">
+COMPUTER SCIENCE STUDENT
+</h3>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
