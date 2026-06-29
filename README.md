@@ -5,7 +5,7 @@ COMPUTER SCIENCE STUDENT
 </h3>
 
 
-<img align="right" width="200" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
+<img align="right" width="200" src="https://raw.githubusercontent.com/yourusername/repository/main/logo.png">
 
 Here are some ideas to get you started:
 
