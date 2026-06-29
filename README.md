@@ -5,8 +5,7 @@ COMPUTER SCIENCE STUDENT
 </h3>
 
 
-<img align="right" width="200" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png">
-
+<img align="right" width="200" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png">
 # Hi, I'm Abhishek 👋
 
 <h3 align="center">
